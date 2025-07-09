@@ -58,8 +58,9 @@ It’s a reminder that every small step contributes to building a solid and mean
 
 Explore more about my journey, ideas, and projects through the links below:
 
-- 🧠 [Blog on Medium](https://medium.com/@esthon) — Technical articles, reflections, and dev logs  
-- 🌐 [Personal Website](https://esthon.com) — Central hub with resume, portfolio, and experiments  
-- 🧵 [Twitter / X](https://twitter.com/esthonjr) — Short-form thoughts, links, and personal updates  
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/esthon/) — Professional background and connections  
-- 🏢 [MEJ Soluções Website](https://mej.solutions/) — My company for freelance and consulting work
+* 🧠 [Blog on Medium](https://medium.com/@esthon) — Technical articles, reflections, and dev logs
+* 🌐 [Personal Website](https://esthon.com) — Central hub with resume, portfolio, and experiments
+* 🐦 [Twitter / X](https://twitter.com/esthonjr) — Short-form thoughts, links, and personal updates
+* 💼 [LinkedIn Profile](https://www.linkedin.com/in/esthon/) — Professional background and connections
+* 🏢 [MEJ Solutions Website](https://mej.solutions/) — My company for freelance and consulting work
+* ✉️ [esthon@mej.solutions](mailto:esthon@mej.solutions) — My email, say hello!
