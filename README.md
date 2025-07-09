@@ -1,4 +1,4 @@
-# 🧭 About This Repository
+# 🏛️ About This Repository
 
 I'm gradually restoring and recreating projects that were part of my journey. This index is, therefore, a living archive: ever-evolving and always in motion.
 
@@ -11,7 +11,7 @@ curiosity → structure → practice → creativity → AI integration.
 
 It’s a reminder that every small step contributes to building a solid and meaningful journey.
 
-# 🧪 How Projects Are Organized
+# 📋 How Projects Are Organized
 
 - **By decade**: Grouped chronologically to reflect the technologies common in each era.  
 - **By language**: Each project uses tools I had access to or was learning at the time.  
@@ -54,7 +54,7 @@ It’s a reminder that every small step contributes to building a solid and mean
 - Many older codebases don’t follow modern best practices, but are kept for historical accuracy.  
 - Technologies used reflect what was available at the time, even if now outdated.
 
-# 📚 Related Reading
+## 📢 Connect with Me
 
 Explore more about my journey, ideas, and projects through the links below:
 
