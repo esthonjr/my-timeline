@@ -43,11 +43,11 @@ It’s a reminder that every small step contributes to building a solid and mean
 - [Python Bitcoin ABC RPC](https://github.com/esthonjr/2018-python-bitcoin-abc-rpc)
 
 ## 2020s
-- [CRUD PostgreSQL Bash](https://github.com/esthonjr/crud-postgresql-bash) 
-- [CRUD PostgreSQL Go](https://github.com/esthonjr/crud-postgresql-golang) 
 - [Create and Send TX Go](https://github.com/esthonjr/create-and-send-tx-go) 
-- [CRUD MongoDB NodeJS](https://github.com/esthonjr/crud-mongodb-nodejs) 
+- [CRUD PostgreSQL Go](https://github.com/esthonjr/crud-postgresql-golang) 
+- [CRUD PostgreSQL Bash](https://github.com/esthonjr/crud-postgresql-bash) 
 - [CRUD PostgreSQL NodeJS](https://github.com/esthonjr/crud-postgresql-nodejs) 
+- [CRUD MongoDB NodeJS](https://github.com/esthonjr/crud-mongodb-nodejs) 
 - [Movie Catalog](https://github.com/esthonjr/movie-catalog) 
 - [SvelteKit SocketIO Chat](https://github.com/esthonjr/sveltekit-socketio-chat) 
 - [OpenAI API Script](https://github.com/esthonjr/openai-api-script)
