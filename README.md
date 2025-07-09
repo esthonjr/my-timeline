@@ -30,6 +30,7 @@ It’s a reminder that every small step contributes to building a solid and mean
 - [C OpenGL Moving Ball](https://github.com/esthonjr/2004-c-opengl-moving-ball)
 - [JS Weight Calculator](https://github.com/esthonjr/2007-js-weight-calculator)
 - [PHP Contact Form](https://github.com/esthonjr/2008-php-contact-form)
+- [Website Surfing Store](https://github.com/esthonjr/2009-website-loja-de-surf)
 - [Java Chat Concurrency](https://github.com/esthonjr/2009-java-chat-concurrency)
 
 ## 2010s
