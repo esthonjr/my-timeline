@@ -34,7 +34,7 @@ It’s a reminder that every small step contributes to building a solid and mean
 - [Java Chat Concurrency](https://github.com/esthonjr/2009-java-chat-concurrency)
 
 ## 2010s
-- [jQuery Todo Localstorage](https://github.com/esthonjr/2012-jquery-todo-localstorage)
+- [jQuery Todo LocalStorage](https://github.com/esthonjr/2012-jquery-todo-localstorage)
 - [PHP MySQL CRUD Almoxarifado](https://github.com/esthonjr/2013-php-mysql-crud-almoxarifado)
 - [Responsive Image Gallery](https://github.com/esthonjr/2013-responsive-image-gallery)
 - [NodeJS Weather API](https://github.com/esthonjr/2015-nodejs-weather-api)
@@ -46,7 +46,7 @@ It’s a reminder that every small step contributes to building a solid and mean
 - [CRUD PostgreSQL Bash](https://github.com/esthonjr/crud-postgresql-bash) 
 - [CRUD PostgreSQL Go](https://github.com/esthonjr/crud-postgresql-golang) 
 - [Create and Send TX Go](https://github.com/esthonjr/create-and-send-tx-go) 
-- [CRUD Mongodb NodeJS](https://github.com/esthonjr/crud-mongodb-nodejs) 
+- [CRUD MongoDB NodeJS](https://github.com/esthonjr/crud-mongodb-nodejs) 
 - [CRUD PostgreSQL NodeJS](https://github.com/esthonjr/crud-postgresql-nodejs) 
 - [Movie Catalog](https://github.com/esthonjr/movie-catalog) 
 - [SvelteKit SocketIO Chat](https://github.com/esthonjr/sveltekit-socketio-chat) 
