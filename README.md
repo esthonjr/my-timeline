@@ -50,6 +50,7 @@ It’s a reminder that every small step contributes to building a solid and mean
 - [CRUD MongoDB NodeJS](https://github.com/esthonjr/crud-mongodb-nodejs) 
 - [Venly NFT Auth](https://github.com/esthonjr/venly-nft-auth) 
 - [Metamask Auth](https://github.com/esthonjr/metamask-auth)
+- [Web3 Soul Scrolls](https://github.com/esthonjr/web3-soulscrolls)
 - [Movie Catalog](https://github.com/esthonjr/movie-catalog) 
 - [SvelteKit SocketIO Chat](https://github.com/esthonjr/sveltekit-socketio-chat) 
 - [OpenAI API Script](https://github.com/esthonjr/openai-api-script)
